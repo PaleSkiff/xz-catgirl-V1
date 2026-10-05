@@ -1,8 +1,4 @@
-# xz-catgirl-V1-2610-1 — Release 附件
 
-这些文件**不进 Git 仓库**（权重/导出产物会让仓库变臃肿），
-请在 GitHub 上创建 Release（Tag 建议 `xz-catgirl-V1-2610-1`），
-把下面 4 个文件作为附件上传，并把 `<RELEASE_NOTES>` 一节作为 Release 说明。
 
 | 附件 | 大小 | 说明 |
 |---|---|---|
